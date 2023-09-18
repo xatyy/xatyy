@@ -1,1 +1,2 @@
-![](https://komarev.com/ghpvc/?username=xatyy&style=for-the-badge)
+Frontend developer.
+Welcome to my page.
